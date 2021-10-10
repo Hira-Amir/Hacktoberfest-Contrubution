@@ -17,7 +17,7 @@ Hacktoberfest is a month long programming celebration from October 1st - October
 # How You Can Contribute to This Project
 - ⭐ this Repo
 - Fork the repo.
-- Make your addition to the Profiles by creating a text file with your GitHub username(Hira-Amir.txt) and describe yourself in three words
+- Make your addition  by creating a text file with your GitHub username(Hira-Amir.txt) and describe yourself in three words
 - Click on the green button (Compare and Pull request)
 - Click on Send Pull Request
 - Wait for you PR to be reviewed and merge approval
