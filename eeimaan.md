@@ -1,3 +1,0 @@
-lazy
-innocent
-genuine
